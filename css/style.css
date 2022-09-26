@@ -1,0 +1,33 @@
+h1 {
+    font-size: 48px;
+    background: darkgray;
+    font-family: tahoma;
+    text-align: center;
+}
+
+body main p {
+    text-transform: lowercase;
+    text-decoration: underline;
+    color: red;
+}
+
+body section p {
+    text-transform: uppercase;
+    text-decoration: line-through;
+    color: rgb(109, 52, 52);
+}
+
+h2 {
+    word-spacing: 4em;
+    letter-spacing: 4em;
+    text-shadow: 8px 8px pink;
+
+}
+
+ul {
+    background: gray;
+}
+
+ul li p {
+    background: blue;
+}
